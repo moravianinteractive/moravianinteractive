@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://tedcolegrove.com"><img src="https://img.shields.io/badge/Website-tedcolegrove.com-222?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="mailto:contact@tedcolegrove.com"><img src="https://img.shields.io/badge/Email-contact%40tedcolegrove.com-c2593f?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.tedcolegrove.com"><img src="https://img.shields.io/badge/Website-tedcolegrove.com-222?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:colegrovet@moravian.edu"><img src="https://img.shields.io/badge/Email-contact%40tedcolegrove.com-c2593f?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
